@@ -1,0 +1,30 @@
+.customize{
+	background-color: #D8D8D8;
+	
+}
+.jumbocolor{
+	background-color: white;
+	
+	
+
+}
+.rowshape{
+	margin-left: 50px;
+	margin-top: 5px;
+	padding-top: 5px;
+
+	
+}
+.condition{
+	text-align: left;
+	margin-top: 40px;
+	background-color: white;
+	margin-left: 10px;
+
+
+}
+.btn {
+  padding: 5px 16px;
+  font-size: 16px;
+  margin-left: 10px;
+}
